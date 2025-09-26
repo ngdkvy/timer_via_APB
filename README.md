@@ -8,3 +8,4 @@
 - Timer uses active low async reset
 - Counter can be counted based on the system clock or divided up to 256
 - Support timer interrupt (can be enabled or disabled)
+- Coverage achieved is 100%

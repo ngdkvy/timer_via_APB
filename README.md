@@ -15,7 +15,6 @@
 + Support timer interrupt (can be enabled or disabled)
 + Coverage achieved is 100%
 <img width="701" height="413" alt="image" src="https://github.com/user-attachments/assets/76f7b037-0f0e-487d-b3d0-b6461fbfc989" />
-
 - Register Summary
   <img width="786" height="383" alt="image" src="https://github.com/user-attachments/assets/3ac6b59d-a0e9-4894-8957-97044677f1f6" />
   
